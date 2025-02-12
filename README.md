@@ -3,12 +3,10 @@
 
 
 
-
 - ⚡  I graduated from Central South University in 2020, majoring in Data Science and Big Data Technology from the School of Computer Science
 - 🌱 I am currently pursuing my Master’s degree in Statistics at the University of Illinois at Urbana-Champaign
 - 😄 Actively seeking a Frontend Development internship for Summer 2025
-
-Contact me via [📫](mailto:jinhongzhu0217@163.com) 
+- 📫 Contact me via jinhongzhu0217@163.com
 
 
  
