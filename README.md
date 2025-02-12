@@ -8,7 +8,7 @@
 - 🌱 I am currently pursuing my Master’s degree in Statistics at the University of Illinois at Urbana-Champaign
 - 😄 Actively seeking a Frontend Development internship for Summer 2025
 
-Contact me via [📫](jinhongzhu0217@163.com) 
+Contact me via [📫](mailto:jinhongzhu0217@163.com) 
 
 
  
