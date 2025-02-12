@@ -1,4 +1,4 @@
-# Hi there, My name is Jinhong Zhu, you can call me Esther too! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, my name is Jinhong Zhu, you can call me Esther too! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
@@ -12,7 +12,7 @@
  
 
 
-Languages & Techologies<br>
+# Languages & Techologies<br>
 
 
 ![JavaScipt](https://img.shields.io/badge/JavaScript-blue)
